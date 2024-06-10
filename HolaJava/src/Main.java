@@ -11,7 +11,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
             System.out.println("Hola Juan Carlos Serna");
-
+            System.out.println("La programacion es el arte para la tecnologia");
         }
     }
 }
